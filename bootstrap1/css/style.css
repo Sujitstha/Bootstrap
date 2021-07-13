@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+a{
+	text-decoration: none;
+	color: black;
+	margin-right: 12px;
+	font-size: 1rem;
+}
+.navbar{
+	background: #FCA311;
+}
+.nav-link{
+	color: #fff !important;
+}
+.navbar-brand{
+	color: #fff !important;
+}
+
+h1{
+	font-size: 64px;
+	font-weight: bold;
+}
